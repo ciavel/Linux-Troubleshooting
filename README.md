@@ -16,6 +16,30 @@
 ```
 
 - [XAMPP](https://github.com/ciavel/Linux-Troubleshooting/blob/main/Installing_XAMPP.md)
+  
+**COMMON XAMPP PROBLEMS**
+
+- If Apache does not start, another web server may already be using port 80:
+
+``` bash
+    sudo systemctl stop httpd
+    sudo /opt/lampp/lampp start
+```
+
+- If MariaDB/MySQL does not start:
+
+``` bash
+    sudo systemctl stop mariadb
+    sudo /opt/lampp/lampp start
+```
+
+- Apache Friends notes that XAMPP can fail to start if another Apache or MySQL/MariaDB daemon is already running.
+- To check XAMPP logs:
+
+``` bash
+    sudo tail -n 50 /opt/lampp/logs/error_log
+```
+
 - [VSCODE](https://github.com/ciavel/Linux-Troubleshooting/blob/main/Visual_studio-install.md)
 
 **VSCODE EXTENSIONS**
