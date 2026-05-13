@@ -15,6 +15,7 @@
     exec zsh
 ```
 - [Big Sur / WhiteSur Setup For Fedora](https://github.com/ciavel/Linux-Troubleshooting/blob/main/BigSur.md)
+- [Linux Drivers](https://github.com/ciavel/Linux-Troubleshooting/blob/main/Drivers.md)
 
 - [XAMPP](https://github.com/ciavel/Linux-Troubleshooting/blob/main/Installing_XAMPP.md)
   
