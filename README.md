@@ -14,6 +14,7 @@
     
     exec zsh
 ```
+- [Big Sur / WhiteSur Setup For Fedora](https://github.com/ciavel/Linux-Troubleshooting/blob/main/BigSur.md)
 
 - [XAMPP](https://github.com/ciavel/Linux-Troubleshooting/blob/main/Installing_XAMPP.md)
   
@@ -70,6 +71,8 @@
     code --install-extension GitHub.copilot-chat
     code --install-extension openai.chatgpt
 ```
+
+
 
 
 
