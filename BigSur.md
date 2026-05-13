@@ -1,6 +1,6 @@
 # Big Sur / WhiteSur Setup For Fedora
 
-This is my Fedora 44 GNOME setup styled like macOS Big Sur using WhiteSur themes, WhiteSur icons, Dash to Dock, Blur My Shell, and other GNOME extensions.
+This is my Fedora GNOME setup styled like macOS Big Sur using WhiteSur themes, WhiteSur icons, Dash to Dock, Blur My Shell, and other GNOME extensions.
 
 ## Installed Themes
 
